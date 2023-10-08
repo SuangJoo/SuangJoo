@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Ng Suang Joo</h1>
+<h3 align="center">3rd-year student of Data Engineering at Universiti Teknologi Malaysia</h3>
+<img align="right" alt="Coding" width="400" src="https://www.scnsoft.com/blog-pictures/business-intelligence/real-time-big-data-analytics-01_1.png">
 
-<!--
-**SuangJoo/SuangJoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suangjoo&label=Profile%20views&color=0e75b6&style=flat" alt="suangjoo" /> </p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently taking courses such as **Data Analytics Programming, Artificial Intelligence, High Performance Data Processing, Business Intelligence, and Database Programming**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: **ngsuangjoo@gmail.com**
+
+- ⚡ I'm always open to interesting projects, collaborations, and learning opportunities.
+  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ng suang joo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ng suang joo" height="30" width="40" /></a>
+<a href="https://instagram.com/shuangroung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shuangroung" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<br><br>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suangjoo&show_icons=true&locale=en&layout=compact" alt="suangjoo" /></p>-->
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suangjoo&show_icons=true&locale=en" alt="suangjoo" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suangjoo&" alt="suangjoo" /></p>
