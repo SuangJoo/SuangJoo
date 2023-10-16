@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ng Suang Joo</h1>
+<h1 align="center">Hi, I am Ng Suang Joo</h1>
 <h3 align="center">3rd-year student of Data Engineering at Universiti Teknologi Malaysia</h3>
 <img align="right" alt="Coding" width="400" src="https://www.scnsoft.com/blog-pictures/business-intelligence/real-time-big-data-analytics-01_1.png">
 
